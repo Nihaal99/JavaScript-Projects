@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@600&family=Lato:wght@300&family=Montserrat:wght@700&family=Oswald&family=Roboto+Mono:wght@500&family=Titillium+Web:wght@200&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'IBM Plex Mono', monospace;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0px;
+}
+.row input{
+    font-size: 19px;
+    margin: 0;
+    padding: 5px 5px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
